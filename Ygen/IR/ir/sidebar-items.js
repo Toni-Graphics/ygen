@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Add","And","Cast","ConstAssign","Or","Sub","Xor"],"trait":["BuildAdd","BuildAnd","BuildCast","BuildOr","BuildReturn","BuildSub","BuildXor","Replace"]};

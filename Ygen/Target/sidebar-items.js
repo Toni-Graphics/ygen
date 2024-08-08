@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Arch","CallConv","Environment","LexingError","OS","ObjFormat","ParsingError","RegistryError","Vendor","x64Reg"],"fn":["initializeAllTargets","initializeX64Target"],"mod":["instr","isa"],"struct":["TargetBackendDescr","TargetRegistry","Triple","x64Lexer","x64Parser"],"trait":["Compiler","Lexer","Optimize","Reg"]};

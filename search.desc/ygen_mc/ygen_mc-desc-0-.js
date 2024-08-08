@@ -1,0 +1,1 @@
+searchState.loadedDescShard("ygen_mc", 0, "<code>ygen-mc</code>: Ygen machine code code playground")
